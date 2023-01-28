@@ -3,7 +3,7 @@
 import turtle
 t = turtle.Pen()
 t.pencolor('green')
-for x in range(100):
+for x in range(1002):
      t.circle(x)
      t.left(360)
 
